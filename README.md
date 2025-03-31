@@ -1,6 +1,6 @@
 # ESP32-C3 MultiControl Car
 
-![Carrito controlado por ESP32-C3](docs/images/car_demo.jpg)
+![Carrito controlado por ESP32-C3](docs/images/car_demo.png)
 
 Un sistema de control multimodal para carritos robóticos utilizando el ESP32-C3 Super Mini, implementando 5 métodos diferentes de control inalámbrico.
 
